@@ -1,6 +1,6 @@
 # AesExpert Homepage
 
-This is the repository that contains source code for the [AesExpert](https://github.com/expto/Bound-SAM/).
+This is the repository that contains source code for the [Bound-SAM](https://github.com/expto/Bound-SAM/).
 
 
 # Website License

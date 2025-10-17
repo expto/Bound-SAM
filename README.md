@@ -1,4 +1,4 @@
-# AesExpert Homepage
+# Bound-SAM Homepage
 
 This is the repository that contains source code for the [Bound-SAM](https://github.com/expto/Bound-SAM/).
 
